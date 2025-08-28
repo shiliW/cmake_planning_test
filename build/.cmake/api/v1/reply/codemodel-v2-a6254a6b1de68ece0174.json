@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "planning",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -38,8 +40,15 @@
 			[
 				{
 					"directoryIndex" : 0,
+					"id" : "common::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-common-Debug-54ff5002e67e0354fc26.json",
+					"name" : "common",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "planning_main::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-planning_main-Debug-c15006900e7a19fe57c8.json",
+					"jsonFile" : "target-planning_main-Debug-9504c2d96db75bf77d3f.json",
 					"name" : "planning_main",
 					"projectIndex" : 0
 				}
